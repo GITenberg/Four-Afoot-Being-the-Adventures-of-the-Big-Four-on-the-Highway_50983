@@ -1,4 +1,8 @@
 _repo: Four-Afoot-Being-the-Adventures-of-the-Big-Four-on-the-Highway_50983
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50983-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50983#Four-Afoot-Being-the-Adventures-of-the-Big-Four-on-the-Highway
 gutenberg_issued: '2016-01-20'
 gutenberg_type: Text
 identifiers:
